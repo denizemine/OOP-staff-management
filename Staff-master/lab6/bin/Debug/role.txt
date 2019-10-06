@@ -1,0 +1,6 @@
+RC1.Takim Lideri/Grup Yoneticisi/Teknik Yonetici/Yazilim Mimari.0,50
+RC2.Proje Yoneticisi.0,75
+RC3.Direktor/Projeler Yoneticisi.0,85
+RC4.CTO/Genel Mudur.1,00
+RC5.Bilgi Islem Sorumlusu/Muduru.0,40
+RC6.Bilgi Islem Sorumlusu/Muduru.0,60

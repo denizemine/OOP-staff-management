@@ -1,0 +1,5 @@
+EC1.Meslek alani ile ilgili yuksek lisans.0,10
+EC2.Meslek alani ile ilgili doktora.0,30
+EC3.Meslek alani ile ilgili docentlik.0,35
+EC4.Meslek alani ile ilgili olmayan yuksek lisans.0,05
+EC5.Meslek alani ile ilgili olmayan doktora/docentlik.0,15

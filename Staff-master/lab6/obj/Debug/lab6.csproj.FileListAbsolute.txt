@@ -1,0 +1,44 @@
+C:\Users\emine deniz\Desktop\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\emine deniz\Desktop\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\emine deniz\Desktop\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\emine deniz\Desktop\lab6\lab6\obj\Debug\lab6.csprojResolveAssemblyReference.cache
+C:\Users\emine deniz\Desktop\lab6\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\emine deniz\Desktop\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\emine deniz\Desktop\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.Cache
+C:\Users\emine deniz\Desktop\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\emine deniz\Desktop\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\emine deniz\Desktop\lab6\lab6\obj\Debug\lab6.pdb
+C:\Users\emine deniz\Desktop\lab6\lab6\obj\Debug\lab6.FormStaffDetails.resources
+C:\Users\emine deniz\Desktop\stafflab\Staff\lab6\bin\Debug\lab6.exe.config
+C:\Users\emine deniz\Desktop\stafflab\Staff\lab6\bin\Debug\lab6.exe
+C:\Users\emine deniz\Desktop\stafflab\Staff\lab6\bin\Debug\lab6.pdb
+C:\Users\emine deniz\Desktop\stafflab\Staff\lab6\obj\Debug\lab6.csprojResolveAssemblyReference.cache
+C:\Users\emine deniz\Desktop\stafflab\Staff\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\emine deniz\Desktop\stafflab\Staff\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\emine deniz\Desktop\stafflab\Staff\lab6\obj\Debug\lab6.FormStaffDetails.resources
+C:\Users\emine deniz\Desktop\stafflab\Staff\lab6\obj\Debug\lab6.csproj.GenerateResource.Cache
+C:\Users\emine deniz\Desktop\stafflab\Staff\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\emine deniz\Desktop\stafflab\Staff\lab6\obj\Debug\lab6.exe
+C:\Users\emine deniz\Desktop\stafflab\Staff\lab6\obj\Debug\lab6.pdb
+C:\Users\bootcamp\Desktop\stafflab\Staff\lab6\bin\Debug\lab6.exe.config
+C:\Users\bootcamp\Desktop\stafflab\Staff\lab6\bin\Debug\lab6.exe
+C:\Users\bootcamp\Desktop\stafflab\Staff\lab6\bin\Debug\lab6.pdb
+C:\Users\bootcamp\Desktop\stafflab\Staff\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Users\bootcamp\Desktop\stafflab\Staff\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\bootcamp\Desktop\stafflab\Staff\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\bootcamp\Desktop\stafflab\Staff\lab6\obj\Debug\lab6.FormStaffDetails.resources
+C:\Users\bootcamp\Desktop\stafflab\Staff\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\bootcamp\Desktop\stafflab\Staff\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\bootcamp\Desktop\stafflab\Staff\lab6\obj\Debug\lab6.exe
+C:\Users\bootcamp\Desktop\stafflab\Staff\lab6\obj\Debug\lab6.pdb
+C:\Users\emine deniz\Desktop\staff\Staff\lab6\bin\Debug\lab6.exe.config
+C:\Users\emine deniz\Desktop\staff\Staff\lab6\bin\Debug\lab6.exe
+C:\Users\emine deniz\Desktop\staff\Staff\lab6\bin\Debug\lab6.pdb
+C:\Users\emine deniz\Desktop\staff\Staff\lab6\obj\Debug\lab6.csprojResolveAssemblyReference.cache
+C:\Users\emine deniz\Desktop\staff\Staff\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\emine deniz\Desktop\staff\Staff\lab6\obj\Debug\lab6.FormStaffDetails.resources
+C:\Users\emine deniz\Desktop\staff\Staff\lab6\obj\Debug\lab6.csproj.GenerateResource.Cache
+C:\Users\emine deniz\Desktop\staff\Staff\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\emine deniz\Desktop\staff\Staff\lab6\obj\Debug\lab6.exe
+C:\Users\emine deniz\Desktop\staff\Staff\lab6\obj\Debug\lab6.pdb
+C:\Users\emine deniz\Desktop\staff\Staff\lab6\obj\Debug\lab6.FormStaffIntro.resources

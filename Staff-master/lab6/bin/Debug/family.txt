@@ -1,0 +1,4 @@
+FC1.Evli ve esi calismiyor.0,20
+FC2.0/6 yas arasi cocuk.0,20
+FC3.7/18 yas arasi cocuk.0,30
+FC4.18 yas ustu cocuk.0,40

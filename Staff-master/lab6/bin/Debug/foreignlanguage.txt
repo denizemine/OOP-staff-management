@@ -1,0 +1,3 @@
+LC1.Belgelendirilmis Ingilizce Dil Bilgisi.0,2
+LC2.Ingilizce egitim veren okul mezuniyeti.0,2
+LC3.Belgelendirilmis diger yabanci dil bilgisi.0,05
